@@ -689,16 +689,6 @@ vertex* FindPathDFS(char vert1,char vert2)
             cout<<pop()->data<<endl;
         }
         
-
-        // for (size_t i = 0; i < 100; i++)
-        // {
-        //    if (ArrList[i]!=NULL)
-        //    {
-        //         cout<<ArrList[i]->data;
-        //    }
-            
-        // }
-        
     }
 
     else
